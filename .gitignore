@@ -1,0 +1,4 @@
+/.env
+/.vscode
+/Dockerfile.production
+/node_modules
